@@ -168,6 +168,9 @@ Reprodução de parte do Almagesto, de Claudius Ptolomaeus, escrito entre 127 e 
 A contribuição mais importante de Ptolomeu foi uma [representação geométrica do sistema solar](http://astro.if.ufrgs.br/p1/p1.htm), geocêntrica, com círculos e epiciclos, em tabelas de dados que permitiam calcular (predizer) o movimento dos planetas com considerável precisão, modelo que foi usado até o Renascimento, no século XVI.
 
 ---
+
+Este texto foi escrito pelos professores [Kepler de Souza Oliveira Filho](http://astro.if.ufrgs.br/kp.html) e [Maria de Fátima Oliveira Saraiva](http://www.if.ufrgs.br/~fatima/hpfatima.html) da Universidade Federal do Rio Grande do Sul. Você pode ler a versão original [AQUI](http://astro.if.ufrgs.br/antiga/antiga.htm).
+
 [^1]: Anaxágoras de Clazomenae (~499-428 a.C.) já afirmava que a Lua refletia a luz do Sol e começou a estudar as causas dos eclipses. 
 [^2]: Paul Schnabel, no Zeitschrift für Assyriologie, N.S., v.3, p. 1-60 (1926), afirma que a precessão já havia sido medida pelo astrônomo babilônio Cidenas (Kidinnu), em 343 a.C.. Cidenas também mediu o período sinódico da Lua, de 29,5 dias.
 [^3]: **Fonte**: História Ilustrada da Ciência - Universidade de Cambridge, Colin A. Ronam, edição brasileira Jorge Zahar Editor, tradução Jorge Enéas Fortes.
