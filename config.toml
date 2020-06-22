@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://astro.luanguimaraes.me/"
+languageCode = "pt-BR"
+title = "Astronomia e Astrofísica"
+theme = "paperesque"
+
+[[params.topmenu]]
+  name = "Sobre os Autores"
+  url = "autores/"
+
+[[params.menu]]
+  name = "Artigos"
+  url = "artigos/"
+
+[[params.menu]]
+  name = "Livros"
+  url = "livros/"

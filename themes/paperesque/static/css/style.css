@@ -183,6 +183,14 @@ nav a, nav a:hover, nav a:visited {
   margin-bottom: 0.5em;
 }
 
+.article-body p {
+    text-align: justify;
+}
+
+.article-body figcaption p {
+    text-align: center;
+}
+
 kbd {
   background-color: #333;
   color: #fff;
