@@ -1,4 +1,4 @@
-baseURL = "http://luanguimaraesla.github.io/astro-site/"
+baseURL = "http://astro.luanguimaraes.me/"
 languageCode = "pt-BR"
 title = "Astronomia e Astrofísica"
 theme = "paperesque"
