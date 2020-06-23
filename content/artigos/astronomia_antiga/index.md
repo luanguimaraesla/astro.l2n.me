@@ -1,6 +1,6 @@
 ---
 date: 2020-06-21
-title: "01. Astronomia Antiga"
+title: "03. Astronomia Antiga"
 ---
 
 As especulações sobre a natureza do Universo devem remontar aos tempos pré-históricos, por isso a astronomia é frequentemente considerada a mais antiga das ciências. Desde a antiguidade, o céu vem sendo usado como mapa, calendário e relógio. Os registros astronômicos mais antigos datam de aproximadamente 3000 a.C. e se devem aos chineses, babilônios, assírios e egípcios. Naquela época, os astros eram estudados com objetivos práticos, como medir a passagem do tempo (fazer calendários) para prever a melhor época para o plantio e a colheita, ou com objetivos mais relacionados à astrologia, como fazer previsões do futuro, já que, não tendo qualquer conhecimento das leis da natureza (física), acreditavam que os deuses do céu tinham o poder da colheita, da chuva e mesmo da vida.
@@ -169,7 +169,7 @@ A contribuição mais importante de Ptolomeu foi uma [representação geométric
 
 ---
 
-Este texto foi escrito pelos professores [Kepler de Souza Oliveira Filho](http://astro.if.ufrgs.br/kp.html) e [Maria de Fátima Oliveira Saraiva](http://www.if.ufrgs.br/~fatima/hpfatima.html) da Universidade Federal do Rio Grande do Sul. Você pode ler a versão original [AQUI](http://astro.if.ufrgs.br/antiga/antiga.htm).
+Este texto foi escrito pelos professores [Kepler de Souza Oliveira Filho](http://astro.if.ufrgs.br/kp.html) e [Maria de Fátima Oliveira Saraiva](http://www.if.ufrgs.br/~fatima/hpfatima.html) da Universidade Federal do Rio Grande do Sul. Você pode ler a versão original [neste link](http://astro.if.ufrgs.br/antiga/antiga.htm).
 
 [^1]: Anaxágoras de Clazomenae (~499-428 a.C.) já afirmava que a Lua refletia a luz do Sol e começou a estudar as causas dos eclipses. 
 [^2]: Paul Schnabel, no Zeitschrift für Assyriologie, N.S., v.3, p. 1-60 (1926), afirma que a precessão já havia sido medida pelo astrônomo babilônio Cidenas (Kidinnu), em 343 a.C.. Cidenas também mediu o período sinódico da Lua, de 29,5 dias.

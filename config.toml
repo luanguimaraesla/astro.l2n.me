@@ -4,8 +4,8 @@ title = "Astronomia e Astrofísica"
 theme = "paperesque"
 
 [[params.topmenu]]
-  name = "Sobre os Autores"
-  url = "autores/"
+  name = "Sobre mim"
+  url = "autor/"
 
 [[params.menu]]
   name = "Artigos"
