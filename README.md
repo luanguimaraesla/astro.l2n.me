@@ -1,8 +1,10 @@
 # Astronomia e Astrofísica
 
-Este repositório contém, em um primeiro momento, o conteúdo reestruturado do site http://astro.if.ufrgs.br/, mantido pelos professores [Kepler de Souza Oliveira Filho](http://astro.if.ufrgs.br/kp.html) e [Maria de Fátima Oliveira Saraiva](http://www.if.ufrgs.br/~fatima/hpfatima.html) da Universidade Federal do Rio Grande do Sul.
+Este projeto é uma ação pessoal para divulgação ciêntifica na área da Astronomia e Astrofísica para o público brasileiro, uma forma de retribuir aos pesquisadores e professores que nos apresentaram ferramentas extraodinárias, que nos ajudam a compreender uma pequena fração do universo que nos cerca.
 
-O projeto é uma ação pessoal para divulgação ciêntifica na área da Astronomia e Astrofísica para o público brasileiro, uma forma de retribuir aos pesquisadores e professores que nos apresentaram ferramentas extraodinárias, que nos ajudam a compreender uma pequena fração do universo que nos cerca.
+Este repositório contém, livros, artigos, mídas e documentos didáticos, como a transcrição e formatação do conteúdo do site http://astro.if.ufrgs.br/, mantido pelos professores [Kepler de Souza Oliveira Filho](http://astro.if.ufrgs.br/kp.html) e [Maria de Fátima Oliveira Saraiva](http://www.if.ufrgs.br/~fatima/hpfatima.html) da Universidade Federal do Rio Grande do Sul.
+
+A ideia principal é possibilitar a agregação de informações úteis para o estudo da Astronomia e Astrofísica, tanto para leigos e entusiastas, como eu, quanto para o público universitário que busca um material introdutório em português.
 
 ## Site
 
