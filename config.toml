@@ -4,6 +4,9 @@ title = "Astronomia e Astrofísica"
 theme = "paperesque"
 publishDir = "docs"
 
+# support for comments
+disqusShortname = "astro-luanguimaraes-me"
+
 [[params.topmenu]]
   name = "Sobre mim"
   url = "autor/"

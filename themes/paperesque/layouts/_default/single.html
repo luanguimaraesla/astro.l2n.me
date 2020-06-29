@@ -35,6 +35,13 @@
       {{ .Content }}
     </article>
   </section>
+
+  {{ if .Params.comments }}
+  <section id="comments" class="content-container look-sheet article-pad-v {{ if (or .Params.disableMarginNotes .Site.Params.disableMarginNotes) }}no-floating-footnotes{{ end }}" itemprop="mainEntityOfPage">
+    {{ template "_internal/disqus.html" . }}
+  </section>
+  {{ end }}
+
   {{ partial "footer.html" . }}
   </body>
 </html>

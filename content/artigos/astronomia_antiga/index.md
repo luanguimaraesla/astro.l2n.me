@@ -1,6 +1,7 @@
 ---
 date: 2020-06-21
 title: "03. Astronomia Antiga"
+comments: true
 ---
 
 As especulações sobre a natureza do Universo devem remontar aos tempos pré-históricos, por isso a astronomia é frequentemente considerada a mais antiga das ciências. Desde a antiguidade, o céu vem sendo usado como mapa, calendário e relógio. Os registros astronômicos mais antigos datam de aproximadamente 3000 a.C. e se devem aos chineses, babilônios, assírios e egípcios. Naquela época, os astros eram estudados com objetivos práticos, como medir a passagem do tempo (fazer calendários) para prever a melhor época para o plantio e a colheita, ou com objetivos mais relacionados à astrologia, como fazer previsões do futuro, já que, não tendo qualquer conhecimento das leis da natureza (física), acreditavam que os deuses do céu tinham o poder da colheita, da chuva e mesmo da vida.
