@@ -1,5 +1,5 @@
 ---
-date: 2020-06-21
+date: 2020-06-30
 title: "03. Astronomia Antiga"
 comments: true
 ---
@@ -24,7 +24,7 @@ Os babilônios ([região da Mesopotâmia, entre os rios Eufrates e Tigres, atual
   attrlink="http://www.mythicalireland.com/ancientsites/newgrange/"
 >}}
 
-Em Stonehenge, cada pedra pesa em média 26 ton. A avenida principal que parte do centro da monumento aponta para o local no horizonte em que o Sol nasce no dia mais longo do verão (solstício). Nessa estrutura, algumas pedras estão alinhadas com o nascer e o pôr do Sol no início do verão e do inverno.
+Em Stonehenge, cada pedra pesa em média 26 ton. A avenida principal que parte do centro do monumento aponta para o local no horizonte em que o Sol nasce no dia mais longo do verão (solstício). Nessa estrutura, algumas pedras estão alinhadas com o nascer e o pôr do Sol no início do verão e do inverno.
 
 {{< figure
   src="images/Stonehenge.jpg"
@@ -39,7 +39,7 @@ Os maias, na América Central, também tinham conhecimentos de calendário e de 
   src="images/Chankillo.jpg"
   caption="Chankillo"
   attr="-- Fonte"
-  attrlink="http://astro.if.ufrgs.br/antiga/antiga.htm"
+  attrlink="https://elcomercio.pe/peru/chankillo-el-milenario-observatorio-que-aspira-ser-patrimonio-mundial-fotos-noticia"
 >}}
 
 O ápice da ciência antiga se deu na Grécia, de 600 a.C. a 400 d.C., em níveis só ultrapassados no século XVI. Do esforço dos gregos em conhecer a natureza do cosmos, e com o conhecimento herdado dos povos mais antigos, surgiram os primeiros conceitos de [Esfera Celeste](http://astro.if.ufrgs.br/coord.htm). Platão (428-347 a.C.) descreveu em seu livro [República](https://en.wikipedia.org/wiki/Republic_\(Plato\)) (Livro VII, 529, 50) uma esfera de material cristalino, incrustada de estrelas, tendo a Terra no centro, com outras esferas mais próximas carregando a Lua, o Sol, Mercúrio, Vênus, Marte, Júpiter e Saturno. Desconhecedores da rotação da Terra, os gregos imaginaram que a esfera celeste girava em torno de um eixo passando pela Terra. Observaram que todas as estrelas giram em torno de um ponto fixo no céu e consideraram esse ponto como uma das extremidades do eixo de rotação da esfera celeste.

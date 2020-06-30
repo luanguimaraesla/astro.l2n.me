@@ -1,7 +1,9 @@
 ---
-date: 2020-06-21
+date: 2020-06-30
 title: "02. Autores e Referências"
 ---
+
+Vos apresento os autores e autoras, professores e professoras, cientistas e pesquisadores que escreveram ou serviram de fundametação teórica aos diversos artigos que compõem esse estudo da Astronomia.
 
 ## Prof. Kepler de Souza Oliveira Filho
 
@@ -28,7 +30,7 @@ Visite sua [página web]("http://astro.if.ufrgs.br/kp.html").
 ## Profa. Maria de Fátima Oliveira Saraiva
 
 {{< figure
-  src="http://www.if.ufrgs.br/~fatima/figuras/fat13.jpg"
+  src="images/fat.jpg"
   caption="Profa. Maria de Fátima Oliveira Saraiva"
   attr="-- Visitar Página"
   attrlink="http://www.if.ufrgs.br/~fatima/hpfatima.html"

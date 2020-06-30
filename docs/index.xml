@@ -6,10 +6,31 @@
     <description>Recent content on Astronomia e Astrofísica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://astro.luanguimaraes.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>02. Autores e Referências</title>
+      <link>http://astro.luanguimaraes.me/artigos/autores/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://astro.luanguimaraes.me/artigos/autores/</guid>
+      <description>Vos apresento os autores e autoras, professores e professoras, cientistas e pesquisadores que escreveram ou serviram de fundametação teórica aos diversos artigos que compõem esse estudo da Astronomia.
+Prof. Kepler de Souza Oliveira Filho   Prof. Kepler de Souza Oliveira Filho &amp;ndash; Visitar Página
+  Sobre S.O. Kepler é Professor Titular do Departamento de Astronomia do Instituto de Física da Universidade Federal do Rio Grande do Sul.
+Ele e sua esposa Fátima escreveram um texto detalhado de Astronomia e Astrofísica.</description>
+    </item>
+    
+    <item>
+      <title>03. Astronomia Antiga</title>
+      <link>http://astro.luanguimaraes.me/artigos/astronomia_antiga/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://astro.luanguimaraes.me/artigos/astronomia_antiga/</guid>
+      <description>As especulações sobre a natureza do Universo devem remontar aos tempos pré-históricos, por isso a astronomia é frequentemente considerada a mais antiga das ciências. Desde a antiguidade, o céu vem sendo usado como mapa, calendário e relógio. Os registros astronômicos mais antigos datam de aproximadamente 3000 a.C. e se devem aos chineses, babilônios, assírios e egípcios. Naquela época, os astros eram estudados com objetivos práticos, como medir a passagem do tempo (fazer calendários) para prever a melhor época para o plantio e a colheita, ou com objetivos mais relacionados à astrologia, como fazer previsões do futuro, já que, não tendo qualquer conhecimento das leis da natureza (física), acreditavam que os deuses do céu tinham o poder da colheita, da chuva e mesmo da vida.</description>
+    </item>
     
     <item>
       <title>01. Apresentação</title>
@@ -19,27 +40,6 @@
       <guid>http://astro.luanguimaraes.me/artigos/apresentacao/</guid>
       <description>Oi! Fico feliz que tenha chegado até aqui. Esta seção é a parte mais importante deste site e aqui você encontrará diversos textos, artigos e outros materiais que te auxiliarão em uma compreensão mais profunda de cada um dos principais assuntos dentro da astronomia.
 Os documentos estão ordenados em ordem cronológica de aprendizado, lê-los em ordem facilitará a compreensão do todo, mas isso não deve ser empecilho para quem está procurando por tópicos específicos.</description>
-    </item>
-    
-    <item>
-      <title>02. Autores e Referências</title>
-      <link>http://astro.luanguimaraes.me/artigos/autores/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://astro.luanguimaraes.me/artigos/autores/</guid>
-      <description>Prof. Kepler de Souza Oliveira Filho   Prof. Kepler de Souza Oliveira Filho &amp;ndash; Visitar Página
-  Sobre S.O. Kepler é Professor Titular do Departamento de Astronomia do Instituto de Física da Universidade Federal do Rio Grande do Sul.
-Ele e sua esposa Fátima escreveram um texto detalhado de Astronomia e Astrofísica. Também escreveu um texto de Fundamentos de Radio-Diagnóstico por Imagens.
-O professor Kepler também trabalha com estrelas anãs brancas com o Sloan Digital Sky Survey e com o Whole Earth Telescope com Don Winget, Ed Nather e com observações do Telescópio Espacial Hubble com Rob Robinson, da University of Texas at Austin.</description>
-    </item>
-    
-    <item>
-      <title>03. Astronomia Antiga</title>
-      <link>http://astro.luanguimaraes.me/artigos/astronomia_antiga/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://astro.luanguimaraes.me/artigos/astronomia_antiga/</guid>
-      <description>As especulações sobre a natureza do Universo devem remontar aos tempos pré-históricos, por isso a astronomia é frequentemente considerada a mais antiga das ciências. Desde a antiguidade, o céu vem sendo usado como mapa, calendário e relógio. Os registros astronômicos mais antigos datam de aproximadamente 3000 a.C. e se devem aos chineses, babilônios, assírios e egípcios. Naquela época, os astros eram estudados com objetivos práticos, como medir a passagem do tempo (fazer calendários) para prever a melhor época para o plantio e a colheita, ou com objetivos mais relacionados à astrologia, como fazer previsões do futuro, já que, não tendo qualquer conhecimento das leis da natureza (física), acreditavam que os deuses do céu tinham o poder da colheita, da chuva e mesmo da vida.</description>
     </item>
     
     <item>
