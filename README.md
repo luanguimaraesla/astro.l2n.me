@@ -8,7 +8,7 @@ A ideia principal é possibilitar a agregação de informações úteis para o e
 
 ## Site
 
-Para acessar o site oficial clique aqui: http://astro.luanguimaraes.me
+Para acessar o site oficial clique aqui: http://astro.l2n.me
 
 ## Como executar esse projeto
 
