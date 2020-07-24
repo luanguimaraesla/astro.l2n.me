@@ -8,8 +8,12 @@ publishDir = "docs"
 disqusShortname = "astro-luanguimaraes-me"
 
 [[params.topmenu]]
-  name = "Sobre mim"
+  name = "sobre mim"
   url = "autor/"
+
+[[params.topmenu]]
+  name = "rss"
+  url = "artigos/index.xml"
 
 [[params.menu]]
   name = "Artigos"
