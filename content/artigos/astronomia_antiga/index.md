@@ -88,7 +88,7 @@ Propôs que a Terra gira diariamente sobre seu próprio eixo, que Vênus e Merc�
 
 ### Aristarco de Samos (310-230 a.C.)
 
-Foi o **primeiro a propor a Terra se movia em volta do Sol**, antecipando Copérnico em quase 2000 anos. Entre outras coisas, desenvolveu um método para determinar as distâncias relativas do Sol e da Lua à Terra e mediu os tamanhos relativos da Terra, do Sol e da Lua.
+Foi o **primeiro a propor que a Terra se movia em volta do Sol**, antecipando Copérnico em quase 2000 anos. Entre outras coisas, desenvolveu um método para determinar as distâncias relativas do Sol e da Lua à Terra e mediu os tamanhos relativos da Terra, do Sol e da Lua.
 
 ### Eratóstenes de Cirênia (276-194 a.C.)
 
